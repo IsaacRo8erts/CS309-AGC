@@ -1,2 +1,2 @@
 # CS309-AGC
-A repository to share my dissertation and presentation on the Apollo Guidance Computer. Work completed in accordance with CS309 requirements. 
+A repository to share my dissertation and presentation on the Apollo Guidance Computer. Work submitted for the completion of CS309 - Invention and Innovation. During my third year at Swansea University, I was fortunate to be given the opportunity to write a dissertation on a topic of my choice. Having been interested in space exploration from a young age and combining this with my passion for computer science, the Apollo Guidance Computer seemed to be a no-brainer to write about!
